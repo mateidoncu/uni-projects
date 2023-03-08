@@ -1,0 +1,1 @@
+My obj MyAccount{ownerName='Ionel Popescu', IBAN='RO202020', amount=2000.0, credit=1000.0, b=Bank{name='BCR', capital=1.020203E7}}

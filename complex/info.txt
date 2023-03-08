@@ -1,0 +1,1 @@
+Lab1_Card{IBAN='RO182828', ammount=1000}
